@@ -123,10 +123,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-  github: "https://github.com",
-  facebook: "https://facebook.com",
-  linkedin: "https://linkedin.com",
-  twitter: "https://twitter.com",
+  github: "https://github.com/IQRA-BATOOL",
+ 
+  linkedin: "https://www.linkedin.com/in/iqra-noor-177a59231/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  
 };
 
 const datablogs = [
